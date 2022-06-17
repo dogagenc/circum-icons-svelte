@@ -1,7 +1,7 @@
 {
 	"name": "@klarr-agency/circum-icons-svelte",
 	"svelte": "src/index.js",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Circum icons pack for svelte",
 	"module": "dist/index.mjs",
 	"main": "dist/index.js",
